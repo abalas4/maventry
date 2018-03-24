@@ -5,7 +5,7 @@
         <classes>
             <class name="chrometest">
                 <methods>
-                    <parameter name="searchtext" value="ps3"></parameter>
+                    <parameter name="searchtext" value="ps4"></parameter>
                     <include name="searchtextinpage"/>
                 </methods>
             </class> <!-- chrometest -->
